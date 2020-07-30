@@ -1,1 +1,3 @@
 # paper_manager_abstract
+
+DeepLを使ったabstractの自動翻訳
